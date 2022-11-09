@@ -18,9 +18,10 @@
 
 ## Materi 
 
-[Dart basic.pdf](https://github.com/msarifin29/Flutter_intensif_club/files/9911866/dart_basic.pdf) bahasa indonesia, 
-[Dart programming](https://www.tutorialspoint.com/dart_programming/dart_programming_variables.htm), 
+[Dart basic.pdf bahasa indonesia](https://github.com/msarifin29/Flutter_intensif_club/files/9911866/dart_basic.pdf) 
 
-
-
-
+[Record pertemuan ke 1]()
+| --- |
+| Tipe data |
+| Konversi tipe data | 
+| operator |
