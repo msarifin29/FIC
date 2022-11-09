@@ -22,6 +22,3 @@
 
 [Record pertemuan ke 1]()
 | --- |
-| Tipe data |
-| Konversi tipe data | 
-| operator |
