@@ -11,15 +11,18 @@
 
 # Pertemuan ke 1
 
-### [Dart basic](https://github.com/msarifin29/FIC/tree/main/dart_language/dart_basic)
+[Dart basic](https://github.com/msarifin29/FIC/tree/main/dart_language/dart_basic)
+| --- |
 
 # Pertemuan ke 2
 
-### [Dart OOP](https://github.com/msarifin29/FIC/tree/main/dart_language/dart_oop)
+[Dart OOP](https://github.com/msarifin29/FIC/tree/main/dart_language/dart_oop)
+| --- |
 
 # Pertemuan ke 3
 
-### [Basic Widget](https://www.youtube.com/watch?v=xR3p-45soc0&list=PLQvQbJRJpIZ67MrVzPDOYtAs7wmFjmFUI&index=4)
+[Basic Widget](https://www.youtube.com/watch?v=xR3p-45soc0&list=PLQvQbJRJpIZ67MrVzPDOYtAs7wmFjmFUI&index=4)
+| --- |
 
 # Pertemuan ke 4
 
