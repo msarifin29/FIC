@@ -1,4 +1,5 @@
-/* Double
+/* 
+tipe data double
  sebuah tipe data desimal ,penulisan tanda koma (,) dalam double menggunakan 
  tanda titik(.)
  https://api.dart.dev/stable/2.18.4/dart-core/double-class.html

@@ -9,8 +9,10 @@ https://api.dart.dev/stable/2.18.4/dart-core/String-class.html
 */
 
 void main() {
-  String letter = ' hello';
-  print(letter);
+  String letter = 'hello';
+  print(letter); // hello
+  String letter2 = "world!";
+  print(letter2); // world!
 
   /* 
   String mendukung expression, dimana di dalam expression kita bisa mengambil
