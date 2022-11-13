@@ -1,6 +1,7 @@
 
 ## Materi
 
-[Dart oop.pdf](https://github.com/msarifin29/Flutter_intensif_club/files/9931154/dart_oop.pdf) bahasa Indonesia
+[Record video](https://www.youtube.com/watch?v=wfI5E2Hps2U&list=PLQvQbJRJpIZ67MrVzPDOYtAs7wmFjmFUI&index=3)
 
-[FLutter by example](https://flutterbyexample.com/lesson/intro-to-oop)
+[Dart oop.pdf bahasa Indonesia](https://github.com/msarifin29/Flutter_intensif_club/files/9931154/dart_oop.pdf)
+
