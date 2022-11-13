@@ -21,12 +21,15 @@
 
 # Pertemuan ke 3
 
-[Basic Widget](https://www.youtube.com/watch?v=xR3p-45soc0&list=PLQvQbJRJpIZ67MrVzPDOYtAs7wmFjmFUI&index=4)
+[Basic Widget chapter 1](https://www.youtube.com/watch?v=xR3p-45soc0&list=PLQvQbJRJpIZ67MrVzPDOYtAs7wmFjmFUI&index=4)
 | --- |
+
+[Tugas 1 ](https://github.com/msarifin29/FIC/tree/main/flutter_framework/tugas1)
 
 # Pertemuan ke 4
 
-### [Akan datang]()
+[Basic Widget chapter 2](https://www.youtube.com/watch?v=rEDeyIF1k_o&list=PLQvQbJRJpIZ67MrVzPDOYtAs7wmFjmFUI&index=7)
+| --- |
 
 # Pertemuan ke 5
 
