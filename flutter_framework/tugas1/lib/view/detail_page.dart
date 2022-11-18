@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
 
-import '../text_string.dart';
+import '../const/text_string.dart';
 
 class DetailPage extends StatefulWidget {
   const DetailPage({super.key, required this.data});
